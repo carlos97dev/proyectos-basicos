@@ -1,0 +1,6 @@
+print ("calculadora del area del rectangulo")
+alto = input("Digite el alto y presione ENTER ")
+ancho = input("digite el ancho y presione ENTER ") 
+areadelrectangulo = int(alto) * int(ancho)
+print("el area del rectangulo es: " + str(areadelrectangulo))
+print("GRACIAS POR PROBAR ESTA APLICACION")
